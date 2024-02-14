@@ -1,6 +1,6 @@
 # Slides
 
-![slide](SigWeb3-training-primer-smartcontract.pdf)
+[slide](SigWeb3-training-primer-smartcontract.pdf)
 
 # Video
 

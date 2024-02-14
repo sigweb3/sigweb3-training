@@ -1,7 +1,8 @@
 # Slides
 
-![slide-1](SigWeb3-training-primer-blockchain-system-materials.pdf)
-![slide-2](SigWeb3-training-primer-blockchain-system-slides.pdf)
+[slide-1](SigWeb3-training-primer-blockchain-system-materials.pdf)
+
+[slide-2](SigWeb3-training-primer-blockchain-system-slides.pdf)
 
 # Video
 

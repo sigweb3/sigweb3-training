@@ -1,5 +1,5 @@
 # Slides
-![slide](SigWeb3-training-primer-cryptography.pdf)
+[slide](SigWeb3-training-primer-cryptography.pdf)
 
 # Video
 https://www.youtube.com/watch?v=DNVRLS2mK2o
